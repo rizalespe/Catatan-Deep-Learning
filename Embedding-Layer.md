@@ -63,6 +63,6 @@ Kemudian untuk ukuran output akan bernilai 10, `embed_size=10`. Maka, dari prose
   |depan| 6 |[0.3000,  0.5547, -0.7829, -0.8794,  0.3341, -1.1547, -0.3411,  1.2519, 1.5087, -0.6034]  |
   |rumah| 56 |[-0.4643, -1.5757,  0.1448,  0.0035, -1.5407, -2.2671,  0.6009,  1.3066, -1.0037, -1.1288]  |
 
-Dengan ukuran input `[1, 6]`, maka output dari dokumen ini adalah `[1, 6, 10]`
+Dengan ukuran input `torch.Tensor([1, 6])`, maka output dari dokumen ini adalah `torch.Tensor([1, 6, 10])`
 
 Lebih lanjut: https://pytorch.org/docs/stable/nn.html#sparse-layers
