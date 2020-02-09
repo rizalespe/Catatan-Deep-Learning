@@ -1,4 +1,4 @@
-# Perintah untuk menjalankan Jupyter Lab
+# Perintah pada Jupyter Lab
 
 ### Menjalankan service Jupyter Lab pada host dan port tertentu
 ```
