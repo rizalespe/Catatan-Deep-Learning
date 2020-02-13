@@ -1,7 +1,8 @@
 # Catatan terkait dengan Attention Mechanism
 
-Input: representasi data hasil encoder
+## Attention Layer
+__Input__: encoded image from encoder
 
-Output: weighted encoded image
+__Output__: weighted encoded image
 
-Image --> Encoder() --> Encoded Image --> Attention() --> Weighted Encoded Image
+Image --> __Encoder()__ --> Encoded Image --> __Attention()__ --> Weighted Encoded Image
