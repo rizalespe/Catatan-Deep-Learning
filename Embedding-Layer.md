@@ -1,7 +1,13 @@
 # Bagaimanakah Embedding Layer berfungsi?
 
-Neural Network hanya menerima input berupa data numerik (double,float, dll). Maka jika kita memiliki data berupa data teks (dokumen atau kalimat) maka apa yang harus kita lakukan? Pasti kita berfikir untuk mengubah bentuk teks menjadi representasi numerik. Lalu apa yang harus kita siapkan pertama kali? Dalam catatan ini, saya menggunakan framework deep learning Pytorch.
 
+
+Neural Network hanya menerima input berupa data numerik (double,float, dll). Maka jika kita memiliki data berupa data teks (dokumen atau kalimat) maka apa yang harus kita lakukan? Pasti kita berfikir untuk mengubah bentuk teks menjadi representasi numerik. Lalu apa yang harus kita siapkan pertama kali? Dalam catatan ini, saya menggunakan framework deep learning Pytorch.
+```
+Word embedding: the mapping of words into numerical vector spaces 
+```
+sumber: [Document Embedding Techniques](https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d)
+ 
 ------
 ## Info
 [14-02-2020] Contoh kode implementasi teks menjadi embedding telah ditambahkan pada link berikut ini [kode](https://github.com/rizalespe/pytorch-stuff/tree/master/representasi-embedding-teks)
