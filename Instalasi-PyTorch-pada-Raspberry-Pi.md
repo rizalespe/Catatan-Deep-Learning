@@ -1,4 +1,4 @@
-# Catatan Instalasi Pytorch pada perangkat Raspberry Pi
+# Catatan Instalasi PyTorch pada perangkat Raspberry Pi
 Catatan:
 - instalasi dilakukan pada Python3.7
 
