@@ -6,7 +6,7 @@
 
 
 **Perbedaan:**
-- nilai Correlation terstandar (yaitu rentang -1 s/d 1), sedangankan nilai Covariance tidak
+- nilai Correlation terstandar (yaitu rentang -1 s/d 1), sedangankan nilai Covariance pada rentang -∞ and +∞
 
 Untuk mendapatkan nilai Correlation Coefficient dengan cara:
 membagi covariance dari dua variabel dengan perkalian standar deviasi dari masing-masing variabel.
