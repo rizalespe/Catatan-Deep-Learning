@@ -7,6 +7,7 @@
 
 **Perbedaan:**
 - nilai Correlation terstandar (yaitu rentang -1 s/d 1), sedangankan nilai Covariance pada rentang -∞ and +∞
+- kapan kita gunakan matriks covariance? ketika variabel-variabel yang terlibat memiliki kemiripan, dan kapan menggunakan matriks correlation? yaitu ketika terdapat perbedaan scales
 
 Untuk mendapatkan nilai Correlation Coefficient dengan cara:
 membagi covariance dari dua variabel dengan perkalian standar deviasi dari masing-masing variabel.
