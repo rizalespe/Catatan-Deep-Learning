@@ -22,4 +22,6 @@ Kalkulasi nilai covariance yang dilakukan terhadap dua variabel ```a``` dan ```b
 
 ```covariance(a,b) covariance(b,b)```
 
+**sumber**: https://stackoverflow.com/questions/15317822/calculating-covariance-with-python-and-numpy
+
 
