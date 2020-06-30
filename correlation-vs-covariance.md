@@ -14,3 +14,12 @@ membagi covariance dari dua variabel dengan perkalian standar deviasi dari masin
 
 
 **sumber**: https://towardsdatascience.com/let-us-understand-the-correlation-matrix-and-covariance-matrix-d42e6b643c22
+
+**Covariance pada Numpy:**
+Kalkulasi nilai covariance yang dilakukan terhadap dua variabel ```a``` dan ```b``` pada ```np.conv``` maka memiliki output berupa matrix yang berisi:
+
+```covariance(a,a) covariance(b,a)```
+
+```covariance(a,b) covariance(b,b)```
+
+
