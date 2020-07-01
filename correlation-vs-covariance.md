@@ -1,7 +1,8 @@
 **Terminologi:**
 
 - Correlation: menunjukkan seberapa besar dan arah hubungan linear dari dua variabel
-- Covariance: menunjukkan arah dari hubungan linear dari dua variabel
+- Covariance: menunjukkan arah dari hubungan linear dari dua variabel ```Conv(a,b)```
+- Variance: hampir sama dengan Covariance, namun hanya melibatkan satu variabel saja ```Conv(a,a) = Var(a)```
 - Standard Deviation: menunjukan variabilitas data dalam distribusi dataset 
 
 
