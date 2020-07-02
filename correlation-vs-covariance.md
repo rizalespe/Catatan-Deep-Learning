@@ -33,6 +33,6 @@ Kalkulasi nilai covariance yang dilakukan terhadap dua variabel ```a``` dan ```b
 
 **sumber**: https://stackoverflow.com/questions/15317822/calculating-covariance-with-python-and-numpy
 
-**sumver video:**
+**sumber video:**
 - https://www.youtube.com/watch?v=qtaqvPAeEJY
 
