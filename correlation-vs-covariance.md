@@ -16,7 +16,8 @@
 **Perbedaan:**
 - nilai Correlation terstandar (yaitu rentang -1 s/d 1), sedangankan nilai Covariance pada rentang -∞ and +∞
 - kapan kita gunakan matriks covariance? ketika variabel-variabel yang terlibat memiliki kemiripan, dan kapan menggunakan matriks correlation? yaitu ketika terdapat perbedaan scales
-- covariance hanya mampu menunjukkan arah hubungan antar dua variabel/fitur, misal: pada variabel ```a``` dan ```b```, kita akan tentukan nilai ```conv(a,b)```. Jika ```a``` naik dan ```b``` naik, maka akan menghasilkan nilai positif (arah hubungan positif). Jika ```a``` naik dan ```b``` turun, maka akan menghasilkan nilai negatif (arah hubungan negatif). Yang digunakan hanya tanda saja, yaitu positif dan negatif.  
+- covariance hanya mampu menunjukkan arah hubungan antar dua variabel/fitur, misal: pada variabel ```a``` dan ```b```, kita akan tentukan nilai ```conv(a,b)```. Jika ```a``` naik dan ```b``` naik, maka akan menghasilkan nilai positif (arah hubungan positif). Jika ```a``` naik dan ```b``` turun, maka akan menghasilkan nilai negatif (arah hubungan negatif). Yang digunakan hanya tanda saja, yaitu positif dan negatif.
+- covariance sensitif terhadap perubahan skala pada data, sedangkan correlation tidak sensitif terhadap perubahan skala pada data. Skala yang dimaksud adalah faktor pengali yang dilakukan pada data
 
 Untuk mendapatkan nilai Correlation Coefficient dengan cara:
 membagi covariance dari dua variabel dengan perkalian standar deviasi dari masing-masing variabel.
