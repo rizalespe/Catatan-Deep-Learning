@@ -1,3 +1,10 @@
+**Urutan Pemahaman**:
+1. Mean
+2. Variance
+3. Covariance
+4. Standard Deviation
+5. Correlation
+
 **Terminologi:**
 
 - Correlation: menunjukkan seberapa besar dan arah hubungan linear dari dua variabel
