@@ -29,3 +29,8 @@ torchserve --start --model-store /models --models all
 ```
 torchserve --stop
 ```
+
+5. Ujicoba service yang telah berjalan:
+```
+curl http://127.0.0.1:8080/predictions/densenet161 -T kitten.jpg
+```
