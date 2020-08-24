@@ -1,7 +1,7 @@
 # BERT Mountain
-1. BERT
-2. Transformer
-3. Attention
+1. BERT, paper: https://arxiv.org/abs/1810.04805
+2. Transformer, paper: https://arxiv.org/abs/1706.03762
+3. Attention, paper: https://arxiv.org/abs/1409.0473
 4. Encoder-Decoder & Bi-LSTM
 5. RNN & LSTM
 
@@ -15,3 +15,7 @@ nb: _RNN & LSTM is the most basic_
   - Unidirectional
   - Bidirectional
     - BERT (Bidirectional Encoder Representation from Transformer)
+
+# BERT's Vocabulary
+- BERT is pre-trained and the vocabulary is fixed
+- To handling unknown token (token that does not exist in vocabulary), BERT breakdown the word into subwords. Ex: "embedding"--> em, bed, ding   
