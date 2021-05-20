@@ -19,3 +19,6 @@ nb: _RNN & LSTM is the most basic_
 # BERT's Vocabulary
 - BERT is pre-trained and the vocabulary is fixed
 - To handling unknown token (token that does not exist in vocabulary), BERT breakdown the word into subwords. Ex: "embedding"--> em, bed, ding   
+
+# Coding Tutorial
+- BERT Tokenization https://albertauyeung.github.io/2020/06/19/bert-tokenization.html
