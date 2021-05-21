@@ -22,6 +22,7 @@ nb: _RNN & LSTM is the most basic_
 
 # Coding Tutorial
 - BERT Tokenization https://albertauyeung.github.io/2020/06/19/bert-tokenization.html
+- Multi-task coding tutorial https://github.com/ThilinaRajapakse/simpletransformers
 
 # Blog arcticle
 - BERT Explaination (https://www.kdnuggets.com/2018/12/bert-sota-nlp-model-explained.html)
