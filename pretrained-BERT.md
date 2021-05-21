@@ -24,4 +24,4 @@ nb: _RNN & LSTM is the most basic_
 - BERT Tokenization https://albertauyeung.github.io/2020/06/19/bert-tokenization.html
 
 # Blog arcticle
-- BERT Explaination (https://www.kdnuggets.com/2018/12/bert-sota-nlp-model-explained.html#:~:text=Next%20Sentence%20Prediction%20(NSP),sentence%20in%20the%20original%20document.)
+- BERT Explaination (https://www.kdnuggets.com/2018/12/bert-sota-nlp-model-explained.html)
