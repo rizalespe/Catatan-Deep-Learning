@@ -23,6 +23,7 @@ nb: _RNN & LSTM is the most basic_
 # Coding Tutorial
 - BERT Tokenization https://albertauyeung.github.io/2020/06/19/bert-tokenization.html
 - Multi-task coding tutorial https://github.com/ThilinaRajapakse/simpletransformers
+- Fine-tuning BERT model for sentence-pairs classification https://github.com/NadirEM/nlp-notebooks/blob/master/Fine_tune_ALBERT_sentence_pair_classification.ipynb
 
 # Blog arcticle
 - BERT Explaination (https://www.kdnuggets.com/2018/12/bert-sota-nlp-model-explained.html)
