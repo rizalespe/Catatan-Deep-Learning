@@ -28,3 +28,4 @@ nb: _RNN & LSTM is the most basic_
 # Blog arcticle
 - BERT Explaination (https://www.kdnuggets.com/2018/12/bert-sota-nlp-model-explained.html)
 - How to decode (https://huggingface.co/blog/how-to-generate)
+- Various decoding strategies (https://huggingface.co/blog/how-to-generate)
